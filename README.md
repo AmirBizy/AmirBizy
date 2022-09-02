@@ -1,4 +1,4 @@
-<h1 align="center">In The Name Of God, My Name Is <b>Amirreza Jafari</b></h1>
+<h1 align="center">In The Name Of God, My Name Is <span style="color:#3498db;">Amirreza Jafari</span></h1>
 <h3 align="center">I am the backend developer of the website</h3>
 
 <p align="left"> <a href="https://twitter.com/amirbizypro" target="blank"><img src="https://img.shields.io/twitter/follow/amirbizypro?logo=twitter&style=for-the-badge" alt="amirbizypro" /></a> </p>
