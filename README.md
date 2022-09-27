@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/amirbizypro" target="blank"><img src="https://img.shields.io/twitter/follow/amirbizypro?logo=twitter&style=for-the-badge" alt="amirbizypro" /></a> </p>
 
-- 🔭 I’m currently working on **Web Design && Photoshop**
-
-- 🌱 I’m currently learning **Laravel 9**
+- 🔭 I’m currently working on **Web Design**
 
 - 📝 I regularly write articles on [https://amirbizy.ir](https://amirbizy.ir)
 
-- 📫 How to reach me **amiri.pvr@gmail.com**
+- 📫 How to reach me **amirbizypro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
