@@ -1,7 +1,7 @@
 <h1 align="center"><span style="color:#3498db;">Amirreza Jafari</span></h1>
 <h3 align="center">I am the backend developer of the website</h3>
 
-<p align="left"> <a href="https://twitter.com/amirbizypro" target="blank"><img src="https://t.me/amir_bizy?logo=telegram&style=for-the-badge" alt="amir_bizy" /></a> </p>
+<p align="left"><a href="https://twitter.com/amirbizypro" target="blank"><i class="fa fa-telegram" aria-hidden="true"></i><img src="" alt="amir_bizy" /></a> </p>
 
 - 🔭 I’m currently working on **Web Design**
 
