@@ -1,7 +1,7 @@
 <h1><span style="color:#3498db;">Amirreza Jafari</span></h1>
-<h3>Website Developer :)</h3>
+<h3>Website Developer</h3>
 
-- 🔭 I’m currently working on **Web Design**
+- 🔭 I’m currently working on **Web Development**
 
 - 📝 Founder Of amirbizy.ir [https://amirbizy.ir](https://amirbizy.ir)
 
