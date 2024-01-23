@@ -5,7 +5,7 @@
 
 - 📝 Founder Of amirbizy.ir [https://amirbizy.ir](https://amirbizy.ir)
 
-- 📫 How to reach me **amirbizypro@gmail.com**
+- 📫 How to reach me **amiri.jefri2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
