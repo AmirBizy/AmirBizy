@@ -20,6 +20,8 @@
   <img alt="css" src="https://img.shields.io/badge/-css-2088FF?style=flat-square&logo=css&logoColor=white" /> 
 </p>
 
+<hr style="height: 1px;">
+
 - 🔭 I’m currently working on **Web Development**
 
 - 📝 Founder Of amirbizy.ir [https://amirbizy.ir](https://amirbizy.ir)
