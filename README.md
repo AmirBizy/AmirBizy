@@ -18,9 +18,14 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-css-2088FF?style=flat-square&logo=css&logoColor=white" /> 
+  <h1><span style="color:#3498db;"></span></h1>
 </p>
 
-<hr style="height: 1px;">
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=amirbizy&show_icons=true&theme=gotham" alt="Amirreza Jafari" />
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
 - 🔭 I’m currently working on **Web Development**
 
