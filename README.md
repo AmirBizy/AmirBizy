@@ -1,5 +1,5 @@
 <h1><span style="color:#3498db;">Amirreza Jafari</span></h1>
-<h3>Tall Stack Developer</h3>
+<h3>Web Developer</h3>
 
 <h3>I code with</h3>
 <p>
