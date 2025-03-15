@@ -1,7 +1,6 @@
 <h1><span style="color:#3498db;">Amirreza Jafari</span></h1>
 <h3>Web Developer</h3>
 
-<h3>I code with</h3>
 <p>
   <img alt="tailwindcss" src="https://img.shields.io/badge/-tailwindcss-272727?style=flat-square&logo=tailwindcss&logoColor=blue" />
   <img alt="bootstrap" src="https://img.shields.io/badge/-bootstrap-6d2cf2?style=flat-square&logo=bootstrap&logoColor=fff" />
