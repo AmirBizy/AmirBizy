@@ -18,6 +18,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-css-2088FF?style=flat-square&logo=css&logoColor=white" /> 
   <img alt="css" src="https://img.shields.io/badge/-linux-272727?style=flat-square&logo=linux&logoColor=yellow" /> 
+  <img alt="css" src="https://img.shields.io/badge/-postman-e0531f?style=flat-square&logo=postman&logoColor=orange" /> 
   <h1><span style="color:#3498db;"></span></h1>
 </p>
 
