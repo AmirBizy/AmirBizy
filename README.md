@@ -25,7 +25,7 @@
 <p dir="auto">
    <a href="#" align="left"> <img src="https://github-readme-stats.vercel.app/api?username=amirbizy&show_icons=true&theme=vision-friendly-dark&card_width=200" alt="Amirreza Jafari" /></a>
   <a href="#" align="center">
-    <img width="" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirbizy&layout=compact&hide_title=1&card_width=200&theme=vision-friendly-dark" alt="Amirreza Jafari" />
+    <img width="400" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirbizy&layout=compact&hide_title=1&card_width=200&theme=vision-friendly-dark" alt="Amirreza Jafari" />
   </a>
 </p>
 
