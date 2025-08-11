@@ -1,5 +1,5 @@
 <h1><span style="color:#3498db;">Amirreza Jafari</span></h1>
-<h3>Web Application Developer</h3>
+<h3>Web Application Developer | Integrated Web Solutions Architect</h3>
 
 <p>
   <img alt="tailwindcss" src="https://img.shields.io/badge/-tailwindcss-272727?style=flat-square&logo=tailwindcss&logoColor=blue" />
